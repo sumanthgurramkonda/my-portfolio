@@ -386,8 +386,8 @@ const Projects = () => {
                 <div className="absolute inset-0 bg-gradient-to-br from-slate-700 to-slate-800 group-hover:scale-110 transition-transform duration-500"></div>
                 <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-slate-900/60 backdrop-blur-sm">
                   <div className="flex gap-4">
-                    <a href={project.github} className="p-2 bg-white text-slate-900 rounded-full hover:bg-cyan-400 transition-colors"><Github size={20} /></a>
-                    <a href={project.link} className="p-2 bg-white text-slate-900 rounded-full hover:bg-cyan-400 transition-colors"><ExternalLink size={20} /></a>
+                    <a href={project.github} className="p-2 bg-white text-slate-900 rounded-full hover:bg-cyan-400 transition-colors" target="blank"><Github size={20} /></a>
+                    <a href={project.link} className="p-2 bg-white text-slate-900 rounded-full hover:bg-cyan-400 transition-colors" target="blank"><ExternalLink size={20} /></a>
                   </div>
                 </div>
                 <div className="absolute bottom-0 left-0 w-full p-4 bg-gradient-to-t from-slate-900 to-transparent opacity-60"></div>
