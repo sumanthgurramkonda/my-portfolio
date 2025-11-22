@@ -56,8 +56,8 @@ const DATA = {
       title: "VisualDFS: Number of Islands",
       description: "Interactive visualization of the 'Number of Islands' DFS algorithm featuring step-by-step execution to demonstrate recursive logic and backtracking concepts.",
       tags: ["React", "JavaScript","HTML/CSS","Algorithms"],
-      link: "#",
-      github: "#"
+      link: "https://graph-dfs-traversal-animi.netlify.app/",
+      github: "https://github.com/sumanthgurramkonda/Graphs/tree/main/islands"
     },
     {
       id: 2,
