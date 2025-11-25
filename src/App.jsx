@@ -73,7 +73,7 @@ const DATA = {
     github: "https://github.com/sumanthgurramkonda",
     linkedin: "https://www.linkedin.com/in/sumanth-gurramkonda-739570174/",
     leetcode: "https://leetcode.com/u/sumanthgurramkonda/", // Add your LeetCode URL here
-    resume: "https://doc-0s-1g-apps-viewer.googleusercontent.com/viewer/secure/pdf/3v4of3joeo70poqf97vqdg18jja49od5/ap1ke3s3kvrjmgrb8uopujhnt71a4ma9/1764091575000/drive/10318594218948821941/ACFrOgB8pkJjbpC0KBaT_AxIqXhpFa1jBcKWCKaSwREiJkxquOHXfb-B5sH-0YcV6Y84ZQUrJTSE7WMQ1FCaVIbmXGPVA05YV1zI8iCugbwX3i685mGDDbbArMzzxOFaP5BlNUD7QBLTWvd_OW017jyPJW9P0Z69fj4VEWMZk3iIl1YcfO3Fv-E_qkWzwPRG1uyVOA3hxMElNkZ6ADy-DBzO7cRwn-gJfjwxlhgjZFnTFU1P5zD3BpCMWsQBseJ3wojMjYEcdpTGLa7CII8D?print=true&nonce=mbsjumd86fi5o&user=10318594218948821941&hash=77er7rmjkk8ffk0ncd4o6haehel62vvq" // Add your Google Drive Link here
+    resume: "https://drive.usercontent.google.com/u/0/uc?id=1R5bpcdodBY9A02rYorJ4UwKckIesCMuS&export=download" // Add your Google Drive Link here
   }
 };
 
