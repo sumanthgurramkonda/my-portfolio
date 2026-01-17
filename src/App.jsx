@@ -73,7 +73,7 @@ const DATA = {
     github: "https://github.com/sumanthgurramkonda",
     linkedin: "https://www.linkedin.com/in/sumanth-gurramkonda-739570174/",
     leetcode: "https://leetcode.com/u/sumanthgurramkonda/", // Add your LeetCode URL here
-    resume: "https://drive.usercontent.google.com/u/0/uc?id=1R5bpcdodBY9A02rYorJ4UwKckIesCMuS&export=download" // Add your Google Drive Link here
+    resume: "https://drive.google.com/file/d/1fhNCNWR6ZOSSTuAKQjUrpeCC2ZKV16tR/view?usp=drive_link" // Add your Google Drive Link here
   }
 };
 
