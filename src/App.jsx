@@ -71,7 +71,7 @@ const DATA = {
       id: 3,
       title: "AI Chatbot APP",
       description: "An AI-powered chatbot that answers user queries using large language models, optionally enhanced with document-based context through retrieval-augmented generation (RAG), allowing users to switch models and enable or disable RAG in real time",
-      tags: ["Java", "SpringBoot", "ReactJS", "Ollama LLM"],
+      tags: ["Java", "SpringBoot", "ReactJS", "Ollama LLM", "pgvector/PLSQL", "RAG"],
       link: "#",
       github: "https://github.com/sumanthgurramkonda/ai-chatbot-app"
     }
